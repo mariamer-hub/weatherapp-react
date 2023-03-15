@@ -1,0 +1,49 @@
+.WeatherTemp .current-temperature {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 30px;
+}
+
+.WeatherTemp .current-temperature .temperature {
+  font-size: 64px;
+  font-weight: bold;
+}
+
+.WeatherTemp .current-temperature .units {
+  font-size: 28px;
+  font-weight: normal;
+  position: relative;
+  line-height: 1;
+  top: -30px;
+
+ }
+
+
+ .WeatherTemp .current-temperature .units a {
+   color:rgb(84, 110, 124);
+    text-decoration: none;
+    opacity: 0.6;
+  
+ }
+
+
+
+ @media (max-width: 576px){
+
+  .WeatherTemp .current-temperature .temperature {
+  font-size: 48px;
+  }
+
+.WeatherTemp .current-temperature .units {
+  font-size: 14px;
+  font-weight: normal;
+  position: relative;
+  line-height: 1;
+  top: -20px;
+
+ }
+
+
+
+
+ }

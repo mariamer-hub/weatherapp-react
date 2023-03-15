@@ -1,0 +1,79 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+
+
+    /* overflow: hidden; */
+  /* background-image: url(./imgs/sky1.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-position: center; */
+
+  
+ 
+  /* background: linear-gradient(
+    -45deg,
+    rgb(255, 254, 205) 5.5%,
+    rgb(31, 172, 214) 90.2%
+  ); */
+
+  max-width: 800px;
+  /* min-width: 600px; */
+
+  margin: 0 auto;
+}
+
+li {
+  list-style: none;
+}
+
+/* .App .container {
+  margin: 35px auto;
+  padding: 10%;
+
+  display: block;
+  border-radius: 30px;
+  color: white;
+  font-family: "Roboto Condensed", sans-serif;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+   background-image: url(./imgs/default.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-position: center;
+ 
+} */
+
+.card-1 {
+  margin: 15px auto;
+  width: 100%;
+  padding: 15px 10px;
+}
+
+.card-2 {
+  margin: 15px auto;
+  width: 100%;
+  padding: 0px 10px;
+}
+
+/* .weather-forecast-day {
+  font-size: 18px;
+}
+
+.weather-forecast {
+  font-size: 20px;
+}
+
+.weather-forecast-temp {
+  font-size: 18px;
+}
+
+.weather-forecast-max {
+  font-weight: bold;
+}
+
+.weather-forecast-min {
+  opacity: 0.6;
+} */
