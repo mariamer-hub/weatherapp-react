@@ -8,7 +8,7 @@ export default function Footer() {
         This project was coded by
           {" "}
           Maria Mertiri
-        </a>{" "}
+        </a>
         <br />
         Open-sourced on
         <a
