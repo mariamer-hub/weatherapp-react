@@ -9,10 +9,11 @@ export default function Footer() {
         Open-sourced on
         <a
           className="credits-ref"
-          href="https://github.com/mariamer-hub/weather-react"
+          href="https://github.com/mariamer-hub/weatherapp-react"
           target="_blank"
           rel="noopener noreferrer"
-        >{""} GitHub {""}
+        >
+          {""} GitHub {""}
         </a>
         and hosted on
         <a
