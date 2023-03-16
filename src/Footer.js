@@ -16,14 +16,14 @@ export default function Footer() {
           {""}
           GitHub {""}
         </a>
-        and hosted on {""}
+        and hosted on
         <a
           className="credits-ref"
-          href="https://weather-mariamer-react.netlify.app/"
+          href="https://reactweather-mariamer.netlify.app/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Netlify
+          {""} Netlify
         </a>
       </footer>
     </div>
