@@ -14,9 +14,9 @@ export default function Footer() {
           rel="noopener noreferrer"
         >
           {""}
-          GitHub{""}
+          GitHub {""}
         </a>
-        and hosted on{""}
+        and hosted on {""}
         <a
           className="credits-ref"
           href="https://weather-mariamer-react.netlify.app/"
