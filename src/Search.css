@@ -49,8 +49,8 @@
 
 .Search .search-button:hover{
 
-  color: #3f3f3f;
-  background-color: rgb(255, 254, 205);
+  color: black;
+  background-color: white;
   cursor: pointer;
 
   transition: all 200ms ease-in-out;
@@ -71,8 +71,8 @@
 }
 
 .Search .Location-button:hover {
-  color: #3f3f3f;
-  background-color: rgb(255, 254, 205);
+  color: black;
+  background-color: white;
   cursor: pointer;
 
   transition: all 200ms ease-in-out;
