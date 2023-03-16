@@ -1,11 +1,11 @@
 .WeatherForecastDay .day {
   font-size: 18px;
-  color: rgb(84, 110, 124);
+  color: rgb(116, 84, 124);
 }
 
 .WeatherForecastDay .temperature {
   font-size: 18px;
-  color: rgb(84, 110, 124);
+  color: rgb(116, 84, 124);
 }
 
 .WeatherForecastDay .temperature .max-temp {
