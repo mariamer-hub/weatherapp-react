@@ -5,11 +5,7 @@ export default function Footer() {
   return (
     <div className="Footer">
       <footer className="credits">
-        This project was coded by
-          {" "}
-          Maria Mertiri
-        </a>
-        <br />
+        Coded by Maria Mertiri <br />
         Open-sourced on
         <a
           className="credits-ref"
