@@ -51,7 +51,7 @@ export default function FormattedDate(props) {
           {days[day]} {hours}:{minutes}
         </li>
         <li>
-          {year}-{months[month]}-{todayDate}
+          {todayDate}-{months[month]}-{year}
         </li>
       </ul>
     </div>
