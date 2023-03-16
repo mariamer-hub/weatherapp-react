@@ -20,7 +20,11 @@ body {
   /* min-width: 600px; */
 
   margin: 0 auto;
-  background-color: black;
+  background: linear-gradient(
+    109.6deg,
+    rgb(177, 173, 219) 11.2%,
+    rgb(245, 226, 226) 91.1%
+  );
 }
 
 li {
