@@ -15,35 +15,24 @@
   position: relative;
   line-height: 1;
   top: -30px;
+}
 
- }
+.WeatherTemp .current-temperature .units a {
+  color: rgb(116, 84, 124);
+  text-decoration: none;
+  opacity: 0.6;
+}
 
-
- .WeatherTemp .current-temperature .units a {
-   color:rgb(116, 84, 124);
-    text-decoration: none;
-    opacity: 0.6;
-  
- }
-
-
-
- @media (max-width: 576px){
-
+@media (max-width: 576px) {
   .WeatherTemp .current-temperature .temperature {
-  font-size: 48px;
+    font-size: 48px;
   }
 
-.WeatherTemp .current-temperature .units {
-  font-size: 14px;
-  font-weight: normal;
-  position: relative;
-  line-height: 1;
-  top: -20px;
-
- }
-
-
-
-
- }
+  .WeatherTemp .current-temperature .units {
+    font-size: 14px;
+    font-weight: normal;
+    position: relative;
+    line-height: 1;
+    top: -20px;
+  }
+}
