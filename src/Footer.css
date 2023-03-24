@@ -1,9 +1,13 @@
 .Footer .credits {
   text-align: center;
-  margin: 25px auto;
+  margin: 15px auto;
   color: #4a2455;
 }
 
 .Footer .credits-ref {
   color: rgb(116, 84, 124);
+}
+
+.Footer .credits-ref:hover {
+  color: black;
 }
