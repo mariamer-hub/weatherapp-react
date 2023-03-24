@@ -5,7 +5,16 @@ export default function Footer() {
   return (
     <div className="Footer">
       <footer className="credits">
-        Coded by Maria Mertiri <br />
+        Coded by{" "}
+        <a
+          className="credits-ref"
+          href="https://www.linkedin.com/in/maria-m-8b774a106/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          {""} Maria Mertiri {""}
+        </a>
+        <br />
         Open-sourced on
         <a
           className="credits-ref"
