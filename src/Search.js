@@ -112,7 +112,7 @@ export default function Search(props) {
               <div className=" col-3 col-auto me-auto p-0">
                 <input
                   type="submit"
-                  value="search"
+                  value="Search"
                   className="search-button btn w-100"
                 />
               </div>
