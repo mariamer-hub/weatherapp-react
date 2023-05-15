@@ -7,7 +7,7 @@ import "./App.css";
 export default function App() {
   return (
     <div className="App">
-      <Search defaultCity="Athens" />
+      <Search defaultCity="Aarhus" />
     </div>
   );
 }
